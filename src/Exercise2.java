@@ -20,10 +20,10 @@ public class Exercise2 {
         double percentualNulos = (nulos * 100.0) / totalEleitores;
         double percentualValidos = (validos * 100.0) / totalEleitores;
 
-        System.out.println("Total de eleitores: " + String.format("%2.f", totalEleitores));
-        System.out.println("Percentual de votos em branco: " + String.format("%2.f", percentualBrancos + "%"));
-        System.out.println("Percentual de votos nulos: " + String.format("%2.f", percentualNulos + "%"));
-        System.out.println("Percentual de votos válidos: " + String.format("%2.f", percentualValidos + "%"));
+        System.out.println("Total de eleitores: " + String.format("%.2f", totalEleitores));
+        System.out.println("Percentual de votos em branco: " + String.format("%.2f", percentualBrancos + "%"));
+        System.out.println("Percentual de votos nulos: " + String.format("%.2f", percentualNulos + "%"));
+        System.out.println("Percentual de votos válidos: " + String.format("%.2f", percentualValidos + "%"));
 
     }
 }
