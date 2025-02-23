@@ -2,8 +2,6 @@ import java.util.Scanner;
 
 public class Exercise12 {
     public static void main(String[] args){
-        //Ler dois valores (considere que não serão lidos valores iguais) e escrever o maior deles.
-
         Scanner scanner = new Scanner(System.in);
 
         System.out.println("Digite o primeiro valor: ");

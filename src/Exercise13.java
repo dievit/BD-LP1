@@ -2,8 +2,6 @@ import java.util.Scanner;
 
 public class Exercise13 {
     public static void main(String[] args) {
-        //Ler dois valores (considere que não serão lidos valores iguais) e escrevê-los em ordem crescente.
-
         Scanner scanner = new Scanner(System.in);
 
         System.out.println("Digite o primeiro valor: ");
