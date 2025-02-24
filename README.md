@@ -5,10 +5,10 @@ Os exercícios estão listados abaixo juntamente com seus respectivos testes de 
 <details>
   <summary>💻 Exercício 1</summary>
 
-  ## :dart: <a href = https://github.com/dievit/BD-LP1/blob/main/](https://github.com/dievit/BD-LP1/blob/main/src/Exercise1.java>Código exercício 1</a>
+  ## :dart: <a href = https://github.com/dievit/BD-LP1/blob/main/src/Exercise1.java>Código exercício 1</a>
+
 
   ## 📝 **Teste de Mesa 1 - Entrada Válida**
-
 📌 **Entrada:**
 
 ```
@@ -60,7 +60,7 @@ Digite a sua idade em dias: 20
 <details>
   <summary>💻 Exercício 2</summary>
 
-  ## :dart: <a href = https://github.com/dievit/BD-LP1/blob/main/](https://github.com/dievit/BD-LP1/blob/main/src/Exercise2.java>Código exercício 2</a>
+  ## :dart: <a href = https://github.com/dievit/BD-LP1/blob/main/src/Exercise2.java>Código exercício 2</a>
 
   ## 📝 **Teste de Mesa 1 - Entrada Normal**
 
@@ -154,7 +154,7 @@ Digite o total de votos válidos: 5
 <details>
   <summary>💻 Exercício 3</summary>
 
-  ## :dart: <a href = https://github.com/dievit/BD-LP1/blob/main/](https://github.com/dievit/BD-LP1/blob/main/src/Exercise3.java>Código exercício 3</a>
+  ## :dart: <a href = https://github.com/dievit/BD-LP1/blob/main/src/Exercise3.java>Código exercício 3</a>
 
   ## 📝 **Teste de Mesa 1 - Aumento de 10%**
 
@@ -230,7 +230,7 @@ Digite o percentual de aumento: 5.75
 <details>
   <summary>💻 Exercício 4</summary>
 
-  ## :dart: <a href = https://github.com/dievit/BD-LP1/blob/main/](https://github.com/dievit/BD-LP1/blob/main/src/Exercise4.java>Código exercício 4</a> 
+  ## :dart: <a href = https://github.com/dievit/BD-LP1/blob/main/src/Exercise4.java>Código exercício 4</a> 
 
   ## 📝 **Teste de Mesa 1 - Valores Padrão**
 
@@ -315,7 +315,7 @@ Digite o percentual dos impostos: 50
 <details>
   <summary>💻 Exercício 5</summary>
   
-  ## :dart: <a href = https://github.com/dievit/BD-LP1/blob/main/](https://github.com/dievit/BD-LP1/blob/main/src/Exercise5.java>Código exercício 5</a>
+  ## :dart: <a href = https://github.com/dievit/BD-LP1/blob/main/src/Exercise5.java>Código exercício 5</a>
 
   ## 📝 **Teste de Mesa 1 - Cenário Normal**
 
@@ -403,7 +403,7 @@ Digite o valor total das vendas: R$ 120000.00
 <details>
   <summary>💻 Exercício 6</summary>
 
-  ## :dart: <a href = https://github.com/dievit/BD-LP1/blob/main/](https://github.com/dievit/BD-LP1/blob/main/src/Exercise6.java>Código exercício 6</a>
+  ## :dart: <a href = https://github.com/dievit/BD-LP1/blob/main/main/src/Exercise6.java>Código exercício 6</a>
 
   ## 📝 **Teste de Mesa 1 - Teste com 212°F**
 
@@ -487,7 +487,7 @@ Digite a temperatura em Fahrenheit: -40
 <details>
   <summary>💻 Exercício 7</summary>
 
-  ## :dart: <a href = https://github.com/dievit/BD-LP1/blob/main/](https://github.com/dievit/BD-LP1/blob/main/src/Exercise7.java>Código exercício 7</a>
+  ## :dart: <a href = https://github.com/dievit/BD-LP1/blob/main/src/Exercise7.java>Código exercício 7</a>
 
   ## 📝 **Teste de Mesa 1 - Teste com número maior que 10**
 
@@ -567,7 +567,7 @@ Digite um número: 10
 <details>
   <summary>💻 Exercício 8</summary>
 
-  ## :dart: <a href = https://github.com/dievit/BD-LP1/blob/main/](https://github.com/dievit/BD-LP1/blob/main/src/Exercise8.java>Código exercício 8</a>
+  ## :dart: <a href = https://github.com/dievit/BD-LP1/blob/main/src/Exercise8.java>Código exercício 8</a>
 
   ## 📝 **Teste de Mesa 1 - Teste com número positivo**
 
@@ -655,7 +655,7 @@ O número é positivo!
 <details>
   <summary>💻 Exercício 9</summary>
 
-  ## :dart: <a href = https://github.com/dievit/BD-LP1/blob/main/](https://github.com/dievit/BD-LP1/blob/main/src/Exercise9.java>Código exercício 9</a>
+  ## :dart: <a href = https://github.com/dievit/BD-LP1/blob/main/src/Exercise9.java>Código exercício 9</a>
 
   ## 📝 **Teste de Mesa 1 - Teste com menos de 12 maçãs**
 
@@ -743,7 +743,7 @@ O custo total da compra é de: R$15.00
 <details>
   <summary>💻 Exercício 10</summary>
 
-  ## :dart: <a href = https://github.com/dievit/BD-LP1/blob/main/](https://github.com/dievit/BD-LP1/blob/main/src/Exercise10.java>Código exercício 10</a>
+  ## :dart: <a href = https://github.com/dievit/BD-LP1/blob/main/src/Exercise10.java>Código exercício 10</a>
 
 ## 📝 **Teste de Mesa**
 
@@ -778,7 +778,7 @@ O aluno foi aprovado com média: 6.25
 <details>
   <summary>💻 Exercício 11</summary>
 
-  ## :dart: <a href = https://github.com/dievit/BD-LP1/blob/main/](https://github.com/dievit/BD-LP1/blob/main/src/Exercise11.java>Código exercício 11</a>
+  ## :dart: <a href = https://github.com/dievit/BD-LP1/blob/main/src/Exercise11.java>Código exercício 11</a>
 
   📝 Teste de Mesa 1 - Pessoa pode votar
 📌 Entrada:
@@ -836,7 +836,7 @@ Você poderá votar este ano! Você tem: 16 anos.
 <details>
   <summary>💻 Exercício 12</summary>
 
-  ## :dart: <a href = https://github.com/dievit/BD-LP1/blob/main/](https://github.com/dievit/BD-LP1/blob/main/src/Exercise12.java>Código exercício 12</a>
+  ## :dart: <a href = https://github.com/dievit/BD-LP1/blob/main/src/Exercise12.java>Código exercício 12</a>
 
   ## 📝 **Teste de Mesa 1 - Primeiro valor maior**
 
@@ -940,7 +940,7 @@ O segundo valor é maior: 20
 <details>
   <summary>💻 Exercício 13</summary>
 
-  ## :dart: <a href = https://github.com/dievit/BD-LP1/blob/main/](https://github.com/dievit/BD-LP1/blob/main/src/Exercise13.java>Código exercício 13</a>
+  ## :dart: <a href = https://github.com/dievit/BD-LP1/blob/main/src/Exercise13.java>Código exercício 13</a>
 
   ## 📝 **Teste de Mesa 1 - Primeiro valor menor**
 
@@ -1044,7 +1044,7 @@ Os valores em ordem crescente são: 10 e 20
 <details>
   <summary>💻 Exercício 14</summary>
 
-  ## :dart: <a href = https://github.com/dievit/BD-LP1/blob/main/](https://github.com/dievit/BD-LP1/blob/main/src/Exercise14.java>Código exercício 14</a>
+  ## :dart: <a href = https://github.com/dievit/BD-LP1/blob/main/src/Exercise14.java>Código exercício 14</a>
 
 ## 📝 **Teste de Mesa 1 - Cálculo da Duração do Jogo de Xadrez**
 
@@ -1110,7 +1110,7 @@ A duração do jogo foi de: 6 horas
 <details>
   <summary>💻 Exercício 15</summary>
 
-  ## :dart: <a href = https://github.com/dievit/BD-LP1/blob/main/](https://github.com/dievit/BD-LP1/blob/main/src/Exercise15.java>Código exercício 15</a>
+  ## :dart: <a href = https://github.com/dievit/BD-LP1/blob/main/src/Exercise15.java>Código exercício 15</a>
 
   ## 📝 **Teste de Mesa 1 - Cálculo de Salário com Horas Extras (horas trabalhadas superiores a 40 horas)**
 
@@ -1182,7 +1182,7 @@ O funcionário não teve horas extras
 <details>
   <summary>💻 Exercício 16</summary>
 
-  ## :dart: <a href = https://github.com/dievit/BD-LP1/blob/main/](https://github.com/dievit/BD-LP1/blob/main/src/Exercise16.java>Código exercício 16</a>
+  ## :dart: <a href = https://github.com/dievit/BD-LP1/blob/main/src/Exercise16.java>Código exercício 16</a>
   
   ## 📝 **Teste de Mesa**
 
@@ -1222,7 +1222,7 @@ A média mensal de gastos foi de R$18333.33
 <details>
   <summary>💻 Exercício 17</summary>
 
-  ## :dart: <a href = https://github.com/dievit/BD-LP1/blob/main/](https://github.com/dievit/BD-LP1/blob/main/src/Exercise17.java>Código exercício 17</a>
+  ## :dart: <a href = https://github.com/dievit/BD-LP1/blob/main/src/Exercise17.java>Código exercício 17</a>
 
   ## 📝 **Teste de Mesa**
 
