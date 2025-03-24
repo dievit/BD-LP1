@@ -1,6 +1,10 @@
 <h1 align="center"> Bem-vindo(a) ao repositório de Linguagem de Programação I </h1>
-<h3 align="center">
-Os exercícios estão listados abaixo juntamente com seus respectivos testes de mesa.
+
+
+<details>
+ <summary>Atividade 1</summary>
+
+  ## Os exercícios estão listados abaixo juntamente com seus respectivos testes de mesa.
 </h3>
 <details>
   <summary>💻 Exercício 1</summary>
@@ -1264,4 +1268,49 @@ Digite o valor da SUB(se houver): 0.0
 A média do aluno é: 9.0
 
 ```
+</details>
+</details>
+
+<hr>
+
+<details>
+  <summary>Atividade 2</summary>
+
+  <h3>Imagens</h3>
+
+  ## 1 - Carros
+
+  ![carros-esportivos](https://github.com/user-attachments/assets/3c2365ca-f7bb-4931-a310-4127fe92a11b)
+
+  ## 2 - Prédios
+  
+  ![prédios](https://github.com/user-attachments/assets/c83fb5e5-a336-47de-a57b-c94a195b8c69)
+
+  ## 3 - Pessoas
+
+  ![pessoas](https://github.com/user-attachments/assets/e6c9dd81-5699-4d75-8b23-9268b8722870)
+
+  ## 4 - Animais
+
+  ![animais](https://github.com/user-attachments/assets/72085ce8-8b49-4261-8ce3-d0fcd421bdef)
+
+  ## 5 - Frutas
+
+  ![frutas](https://github.com/user-attachments/assets/db78da24-3fd6-45f2-b7d7-ea2e1c947454)
+
+  ## 6 - Árvores
+
+  ![arvores](https://github.com/user-attachments/assets/962f0cf2-144f-4294-9512-1a04ef285576)
+
+  ## 7 - Bicicletas
+
+  ![bicicletas](https://github.com/user-attachments/assets/96285d80-50ab-4f9f-bf0a-e36e4a4c2173)
+  
+
+
+
+
+
+  
+
 </details>
