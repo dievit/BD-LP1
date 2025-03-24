@@ -1276,7 +1276,7 @@ A média do aluno é: 9.0
 <details>
   <summary>Atividade 2</summary>
 
-  <h3>Imagens</h3>
+  ## <h2>Imagens</h2>
 
   ## 1 - Carros
 
@@ -1305,6 +1305,19 @@ A média do aluno é: 9.0
   ## 7 - Bicicletas
 
   ![bicicletas](https://github.com/user-attachments/assets/96285d80-50ab-4f9f-bf0a-e36e4a4c2173)
+
+  ## 8 - Livros
+
+  ![livros](https://github.com/user-attachments/assets/b349ab83-fabb-4ab4-9f16-bcc16fb82093)
+
+  ## 9 - Alunos
+
+  ![alunos](https://github.com/user-attachments/assets/79c01685-1228-4511-b6f4-8e9f1306e255)
+
+  ## 10 - Encomendas
+
+  ![encomendas](https://github.com/user-attachments/assets/c7ed0b66-0196-4625-87dc-fc46043b3686)
+
   
 
 
